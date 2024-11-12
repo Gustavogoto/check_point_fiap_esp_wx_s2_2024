@@ -1,0 +1,73 @@
+# LIB UNCLE PRESSER - GRUPO SJ
+
+## Professor responsável: Fellipe Souto
+
+*Integrantes do grupo:*
+- *Guilherme Daher* - RM 9811
+- *Gustavo Akio* - RM 550241
+- *Bryan* - RM 551305
+- *Gabriel Freitas* - RM 550187
+
+---
+
+### Objetivo do Projeto
+
+O projeto *LIB UNCLE PRESSER* visa desenvolver um programa para compressão de dados gênicos, com o objetivo de reduzir o espaço em disco dos arquivos contendo sequências de nucleotídeos (cadeias de DNA). Utilizamos *Run-Length Encoding (RLE)* em arquivos .txt com até 1024KB, utilizando codificação UTF-8. O resultado da compressão sai em um .txt que exibe os dados comprimidos.
+
+---
+
+### Estrutura do Projeto
+
+O projeto está estruturado nas seguintes pastas:
+
+- *inputs*: Contém os arquivos de entrada para compressão.
+- *outputs*: Armazena os arquivos gerados após a compressão.
+- *src/main/java/br/com/fiap/twoespwx/libunclepresser*: Contém o código principal da aplicação Java (App.java).
+- *src/test/java/br/com/fiap/twoespwx/libunclepresser*: Inclui os testes automatizados (AppTest.java).
+
+---
+
+### Funcionalidades Implementadas
+
+- *Compressão com Run-Length Encoding (RLE)*: O projeto aplica o algoritmo RLE para compactar sequências de nucleotídeos de forma eficiente, convertendo sequências repetidas, como "AAAA", em uma representação compacta, como "4A".
+- *Interface de Texto*: A aplicação exibe as informações sobre a compressão diretamente no console.
+- *Arquivo de Saída com Resultados*: A aplicação gera um arquivo de saída que apresenta a taxa de compressão obtida e uma descrição do processo.
+- *Teste Automatizado*: A classe AppTest foi criada para garantir a qualidade do código e validar a funcionalidade da compressão.
+
+---
+
+### Estrutura e Funcionamento do Código
+
+#### Classe Principal (App.java)
+
+A classe principal é responsável por:
+
+- Processar os arquivos de entrada.
+- Aplicar o algoritmo de compressão.
+- Gerar a saída.
+
+Os arquivos de entrada e saída seguem o caminho configurado: C:\Users\Lenovo\OneDrive\check_point_fiap_esp_wx_s2_2024\checkpoint_1\libunclepresser.
+
+#### Classe de Teste (AppTest.java)
+
+A classe AppTest foi criada para verificar o funcionamento correto dos métodos principais e garantir que o algoritmo de compressão funcione como esperado.
+
+---
+
+### Método de Compressão - Run-Length Encoding (RLE)
+
+O *algoritmo RLE* é uma técnica simples e eficaz para compressão de dados repetitivos. Para sequências gênicas, ele condensa informações onde há alta repetição de nucleotídeos, permitindo representar longas cadeias de forma mais compacta.
+
+*Exemplo de Compressão RLE:*
+- *Entrada*: AAAAACCCCCGGGTTTAA
+- *Saída*: 5A5C3G2T2A
+
+---
+
+### Desafios e Soluções
+
+#### Erro de Conexão com o Arquivo .txt
+
+Durante o desenvolvimento, enfrentamos dificuldades para localizar e acessar os arquivos .txt usados como entrada e saída no projeto. Esse problema foi causado pela especificação do caminho e pela estrutura do diretório onde o arquivo principal está localizado.
+
+*Solução*: Garantimos que o caminho para os arquivos .txt fosse definido corretamente e revisamos a estrutura do projeto. Assim, os arquivos de entrada e saída passaram a ser lidos e gravados corretamente no caminho configurado: C:\Users\Lenovo\OneDrive\check_point_fiap_esp_wx_s2_2024\checkpoint_1\libunclepresser.

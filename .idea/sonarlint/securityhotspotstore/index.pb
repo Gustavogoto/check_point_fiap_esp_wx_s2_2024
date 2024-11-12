@@ -1,0 +1,42 @@
+
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+T
+$checkpoint_1/libunclepresser/pom.xml,d\d\ddf5c467021f50a078f11987f2f8335655626b42
+ˆ
+Xcheckpoint_1/libunclepresser/src/main/java/br/com/fiap/twoespwx/libunclepresser/App.java,3\0\30d1785d8936387fb7e8a6efba3c61247b0c529d
+`
+0checkpoint_1/libunclepresser/outputs/OUTPUT1.TXT,7\4\7407af6f7dae5db3e74941750d24b0f4ad85326d
+^
+.checkpoint_1/libunclepresser/inputs/input1.txt,8\4\84001f1947bbe84da7d0fb143b309bd5db476c7b
+Œ
+\checkpoint_1/libunclepresser/src/test/java/br/com/fiap/twoespwx/libunclepresser/AppTest.java,d\f\dfaf670e6ab5401fbefe4ea5c37825cf0a67b886
+U
+%checkpoint_1/.meta/NOTAS_PROFESSOR.md,5\e\5e811117d9658be6056b55fd1eb43b71fdb97594
+G
+checkpoint_2/ARTICLE.md,f\8\f8624624c31582b8a2a41cb95a02802d1fdfa0a3
+O
+checkpoint_2/INFRA_AND_SETUP.md,4\b\4b70b9bb850abb80941a87dcb346f15d117dba44
+P
+ checkpoint_2/INPUT_AND_OUTPUT.md,4\9\49497fd2be4956f0ec0f2d62da992316df50b23e
+G
+checkpoint_2/PROBLEM.md,d\9\d9ad42d7501401b4d5d0c6c65d8821ad32a7cc29
+¸
+‡checkpoint_2/libunclealenment/src/test/java/br/com/fiap/twoespwx/lidunclepresser/libunclealenment/LibunclealenmentApplicationTests.java,d\3\d32a44e0efea9fefe9ea00c029381b4ccd69daae
+›
+kcheckpoint_2/libunclealenment/src/test/java/br/com/fiap/twoespwx/lidunclepresser/libunclealenment/Main.java,d\1\d1e482eaabeda0ea96c41798c96773dec1b5fc71
+^
+.checkpoint_1/libunclepresser/src/Readme/Readme,f\a\fafc7819e124865512c31e9de3e245692c2d3a5d
+k
+;src/main/java/br/com/fiap/twoespwx/libunclepresser/App.java,c\6\c602c4e9543e557861f397e2ee282d22b5df257e
+8
+.project,f\8\f8b41ce76d7b80d2b47e91b5f92c15f00eccf187
+I
+CHECKPOINT_1_GRUPO_SJ.eml,d\4\d454347e0d24e0a8dbd2f627707d8518daaf2b6c
+]
+-check_point_fiap_esp_wx_s2_2024.userlibraries,0\d\0df8c76786d871ddbdd671d620457681ef09a743
+:
+
+.classpath,3\5\354079a72b91a4280407c16a36f47d1986fd85a5
+S
+#check_point_fiap_esp_wx_s2_2024.eml,c\8\c85df97ee789d4a17d7fb6de0c77da362ed79121

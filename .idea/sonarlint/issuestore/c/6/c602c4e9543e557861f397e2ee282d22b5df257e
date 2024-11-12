@@ -1,0 +1,35 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(½„Öè8Ó„Ôî±2
+˜
+java:S1598"úThis file "App.java" should be located in "checkpoint1\br\com\fiap\twoespwx\libunclepresser" directory, not in "C:\Users\Lenovo\OneDrive\check_point_fiap_esp_wx_s2_2024\checkpoint_1\libunclepresser\src\main\java\br\com\fiap\twoespwx\libunclepresser".(½„Öè8Õ„Ôî±2
+›
+java:S1192O"~Define a constant instead of duplicating this literal "|                                                           |" 6 times.(»‰ö®8×„Ôî±2
+Ÿ
+java:S1192J"}Define a constant instead of duplicating this literal " -----------------------------------------------------------" 3 times.(¤¨œ úÿÿÿÿ8×„Ôî±2
+c
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(‹½¤óúÿÿÿÿ8Ü„Ôî±2
+]
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(°¥08Ü„Ôî±2
+L	java:S106"+Replace this use of System.out by a logger.(Õ˜ºúÿÿÿÿ8ß„Ôî±2
+L	java:S106J"+Replace this use of System.out by a logger.(¤¨œ úÿÿÿÿ8î„Ôî±2
+L	java:S106K"+Replace this use of System.out by a logger.(ğ‘óºıÿÿÿÿ8ï„Ôî±2
+G	java:S106L"+Replace this use of System.out by a logger.(¯Ã‹õ8ï„Ôî±2
+L	java:S106M"+Replace this use of System.out by a logger.(••¿Ûùÿÿÿÿ8ï„Ôî±2
+L	java:S106N"+Replace this use of System.out by a logger.(ƒ‚ç©ÿÿÿÿÿ8ğ„Ôî±2
+G	java:S106O"+Replace this use of System.out by a logger.(»‰ö®8ğ„Ôî±2
+L	java:S106P"+Replace this use of System.out by a logger.(Ö¯‡Êÿÿÿÿÿ8ğ„Ôî±2
+G	java:S106Q"+Replace this use of System.out by a logger.(»‰ö®8ğ„Ôî±2
+G	java:S106R"+Replace this use of System.out by a logger.(»”µÊ8ğ„Ôî±2
+n
+java:S3457U"Q%n should be used in place of \n to produce the platform-specific line separator.(£îù‡8ò„Ôî±2
+G	java:S106U"+Replace this use of System.out by a logger.(£îù‡8ò„Ôî±2
+G	java:S106W"+Replace this use of System.out by a logger.(»‰ö®8ò„Ôî±2
+G	java:S106X"+Replace this use of System.out by a logger.(ºí‚â8ó„Ôî±2
+L	java:S106Y"+Replace this use of System.out by a logger.(§ç¶ùÿÿÿÿ8ó„Ôî±2
+G	java:S106Z"+Replace this use of System.out by a logger.(»‰ö®8ô„Ôî±2
+L	java:S106["+Replace this use of System.out by a logger.(˜¹îºùÿÿÿÿ8ô„Ôî±2
+L	java:S106\"+Replace this use of System.out by a logger.(¤¨œ úÿÿÿÿ8ô„Ôî±2
+G	java:S106]"+Replace this use of System.out by a logger.(»‰ö®8ô„Ôî±2
+G	java:S106^"+Replace this use of System.out by a logger.(íİœ»8ô„Ôî±2
+G	java:S106_"+Replace this use of System.out by a logger.(»‰ö®8ô„Ôî±2
+L	java:S106`"+Replace this use of System.out by a logger.(¤¨œ úÿÿÿÿ8õ„Ôî±2
